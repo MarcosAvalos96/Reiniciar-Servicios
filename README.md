@@ -10,7 +10,7 @@ el usuario puedo tocar cualquier de las 4 burbujas para acceder a los servicios 
 <img src="Imagenes/burbujas.jpg">
 ### Pantalla Reinicio de Servicios
 se le muestran al usuario en cards cada uno de los servicios con su estado correspondiente ya sea "running" o "stopped", información del mismo y un botón "cambiar estado" para reiciniar o detener el servicio.
-<img src="Imagenes/inicio services.jpg">
+<img src="Imagenes/Inicio services.jpg">
 
 
 

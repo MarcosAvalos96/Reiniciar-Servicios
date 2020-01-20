@@ -7,7 +7,7 @@ Los usuarios o administrador deben iniciar sesión con su Usuario y Contraseña
 <img src="Capturas/Login.jpg">
 ### Pantalla Seleccioón de País 
 el usuario puedo tocar cualquier de las 4 burbujas para acceder a los servicios asignados a ese País
-<img src="Capturas/países.jpg">
+<img src="Capturas/burbujas.jpg">
 
 
 

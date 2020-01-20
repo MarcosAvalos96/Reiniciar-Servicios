@@ -13,5 +13,15 @@ se le muestran al usuario en cards cada uno de los servicios con su estado corre
 <img src="Imagenes/Inicio services.jpg">
 
 
+cuando se toca el boton se la da opcion de reiniciar o detener el servicio
+<img src="Imagenes/opcion con servicios 2.jpg">
+
+una vez detenidos se recargar la pagina para mostrar el estado actual
+<img src="Imagenes/servicios detenidos 2.jpg">
+
+
+
+
+
 
 

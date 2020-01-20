@@ -5,7 +5,7 @@ Aplicación para reiniciar los diferentes servicios cuando se detienen o congela
 ### Pantalla inicio
 Los usuarios o administrador deben iniciar sesión con su Usuario y Contraseña 
 <img src="Capturas/Login.jpg">
-### Pantalla Selecciión de País 
+### Pantalla Selección de País 
 el usuario puedo tocar cualquier de las 4 burbujas para acceder a los servicios asignados a ese País
 <img src="Imagenes/burbujas.jpg">
 ### Pantalla Reinicio de Servicios

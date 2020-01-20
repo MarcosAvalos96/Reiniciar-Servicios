@@ -4,4 +4,4 @@ Aplicación para reiniciar los diferentes servicios cuando se detienen o congela
 #Capturas de pantalla
 ### Pantalla inicio
 el usuario debe de seleccionar alguna base o estación de los aeropuertos, para posteriormente agregar una checklist nuevo asociado a la base que seleccionó anteriormente, agregar uno nuevo desde una plantilla, o abrir uno existente
-<img src="Imagenes/Login.png">
+<img src="imagenes/Login.png">
